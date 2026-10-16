@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dirty-cat/dirty_cat/commit/f27c58e3705acdbf75d4bd14a28aa43a598528d1",
       "git:hexsha": "f27c58e3705acdbf75d4bd14a28aa43a598528d1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
